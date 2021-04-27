@@ -8,3 +8,4 @@ A few experiments of animation of simple physics systems, tipycally via the nume
 * [Projectile motion with drag](Projectile%20motion.ipynb)
 * [Planet motion in central field](Planet%20in%20central%20field.ipynb)
 * [Charged in electrical dipole field](Charge%20in%20dipole%20field.ipynb)
+* [Lorenz system](Lorenz%20system.ipyn)
