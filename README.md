@@ -10,3 +10,4 @@ A few experiments of animation of simple physics systems, tipycally (but not onl
 * [Charged in electrical dipole field](Charge%20in%20dipole%20field.ipynb)
 * [Lorenz system](Lorenz%20system.ipyn)
 * [Wave interference](Wave%20interference.ipynb)
+* [Circular cahotic billiard](Circular%20chaotic$20billiard.ipynb)
